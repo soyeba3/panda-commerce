@@ -1,6 +1,7 @@
 .container{
     margin-bottom: 100px;
 }
+
 .orange-bg{
     background-color: #FEEAE9;
     border-radius: 10px;
@@ -37,4 +38,9 @@
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
 }
